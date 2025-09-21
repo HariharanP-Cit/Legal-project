@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+flask
+flask-cors
+pyPDF2
+python-docx
+python-dotenv
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+tqdm
+reportlab
+openai
+textract
+werkzeug
+spacy
